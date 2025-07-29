@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 😏
 
-<!--
-**kamillobinski/kamillobinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![kamillobinski's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kamillobinski&custom_title=‎&grid=false&radius=10&height=330&hide_border=true&theme=high-contrast)](https://github.com/kamillobinski/github-readme-activity-graph)
 
-Here are some ideas to get you started:
+**Tech I am using in my repos:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:metrics-->
+```text
+Python                    16 repos           ██████░░░░░░░░░░░░░░░░░░░   27.63 %
+JavaScript                23 repos           ██████░░░░░░░░░░░░░░░░░░░   26.60 %
+Java                      17 repos           █████░░░░░░░░░░░░░░░░░░░░   23.74 %
+TypeScript                 6 repos           ██░░░░░░░░░░░░░░░░░░░░░░░   10.31 %
+Swift                      3 repos           █░░░░░░░░░░░░░░░░░░░░░░░░    6.90 %
+Astro                      2 repos           ░░░░░░░░░░░░░░░░░░░░░░░░░    1.69 %
+Others                     8 repos           ░░░░░░░░░░░░░░░░░░░░░░░░░    3.14 %
+```
+<!--END_SECTION:metrics-->
